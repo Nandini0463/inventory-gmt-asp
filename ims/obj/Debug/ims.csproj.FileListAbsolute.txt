@@ -1,0 +1,4 @@
+C:\Users\Welcome\Desktop\ims\ims\bin\ims.dll
+C:\Users\Welcome\Desktop\ims\ims\bin\ims.pdb
+C:\Users\Welcome\Desktop\ims\ims\obj\Debug\ims.dll
+C:\Users\Welcome\Desktop\ims\ims\obj\Debug\ims.pdb
